@@ -39,4 +39,7 @@ No License Used
 My GitHub
 https://github.com/fspaghetti3
 example@email.com
+
+Walkthrough Video: 
+https://youtu.be/dlHDxzThX4I
     
